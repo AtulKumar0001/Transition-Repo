@@ -1,0 +1,7 @@
+Day - 1
+1752. Check if Array Is Sorted and Rotated
+Intuition - Last number shall be smaller than first one, there cannot be more than one number present which will be bigger than its next number
+26. Remove Duplicates from Sorted Array
+Intuition - Start from 1 and use pointer approach to move unique at first
+
+-------------------------------------
