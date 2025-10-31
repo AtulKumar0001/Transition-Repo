@@ -46,7 +46,7 @@ Wed — Day 3
 
 A: JPA basics: create Product entity and ProductRepository (H2). Implement POST /products. Validate request body (use @Valid).
 
-B: DSA — Strings problem #3 (easy-medium).
+B: DSA — Strings problem #3 (easy-medium)
 
 C: Add unit test skeleton for controller (JUnit 5).
 
